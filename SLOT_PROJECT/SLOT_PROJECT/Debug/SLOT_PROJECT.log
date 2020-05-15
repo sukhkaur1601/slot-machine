@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  SLOT_PROJECT.cpp
+c:\users\ssukhwin1\source\repos\slot_project\slot_project\slot_project.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SLOT_PROJECT.vcxproj -> C:\Users\ssukhwin1\source\repos\SLOT_PROJECT\Debug\SLOT_PROJECT.exe
